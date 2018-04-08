@@ -1,4 +1,4 @@
-# PyPaint
+![certipy](https://thumb.ibb.co/i0QQmc/certipy.png)
 
 A bulk certificate generator from a .csv file.
 
@@ -17,6 +17,8 @@ A bulk certificate generator from a .csv file.
 3. Press Return
 
 ![preview](https://media.giphy.com/media/pcLN02Kj7vyWn4bjJB/giphy.gif)
+
+
 ![output](https://media.giphy.com/media/ybSD5DxWbDVBU8Tx7V/giphy.gif)
 
 ## Requires
