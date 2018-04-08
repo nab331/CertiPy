@@ -47,7 +47,7 @@ def generate_output(rect_array):
 
 	with open("input.csv","rb") as f:
 		reader = csv.reader(f)
-		#count=1
+		count=1
 
 		for row in reader:
 
@@ -61,11 +61,14 @@ def generate_output(rect_array):
 				
 				PIL_draw.text( xy ,row[i],(28,70,150),font)
 
-				output_name =  os.path.join( output_folder , row[0]+".jpg" )
-				PIL_image.save(output_name)
+				output_name =  os.path.join( output_folder , str(count)+". "+row[0]+" ("+row[1]+")"+".jpg" )
+				
+			count+=1;	
+			PIL_image.save(output_name)
 
 
-			#count+=1;
+				
+
 			#if count==10:
 			#	break
 
