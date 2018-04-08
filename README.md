@@ -1,4 +1,4 @@
-![certipy](https://thumb.ibb.co/i0QQmc/certipy.png)
+![certipy](https://image.ibb.co/dsnuex/certipy.png)
 
 A bulk certificate generator from a .csv file.
 
