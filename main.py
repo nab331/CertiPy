@@ -61,7 +61,7 @@ def generate_output(rect_array):
 				
 				PIL_draw.text( xy ,row[i],(28,70,150),font)
 
-				output_name =  os.path.join( output_folder , str(count)+". "+row[0]+" ("+row[1]+")"+".jpg" )
+				output_name =  os.path.join( output_folder , str(count)+".jpg" )
 				
 			count+=1;	
 			PIL_image.save(output_name)
