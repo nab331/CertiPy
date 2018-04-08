@@ -12,8 +12,9 @@ A bulk certificate generator from a .csv file.
 * font/best_font.otf must be the required font
 
 ## To Run
-`Python main.py <filename.jpg>`
-
+1. `Python main.py <filename.jpg>`
+2. Draw Rectangles over input area
+3. Press Return
 
 ## Requires
 1. Python
@@ -26,4 +27,4 @@ A bulk certificate generator from a .csv file.
 
 ## License
 
-MIT © [mubaris](https://github.com/nab331)
+MIT © [nab331](https://github.com/nab331)
