@@ -16,12 +16,19 @@ A bulk certificate generator from a .csv file.
 2. Draw Rectangles over input area
 3. Press Return
 
+![preview](https://media.giphy.com/media/pcLN02Kj7vyWn4bjJB/giphy.gif)
+![output](https://media.giphy.com/media/ybSD5DxWbDVBU8Tx7V/giphy.gif)
+
 ## Requires
 1. Python
+
 2. Pygame
+
    (`sudo apt-get install python-pygame`)
+
 3. Python Image Library
-   (`sudo apt-get install python-pip` )
+
+   (`sudo apt-get install python-pip` )   
    (`sudo pip install pil` )
 
 
